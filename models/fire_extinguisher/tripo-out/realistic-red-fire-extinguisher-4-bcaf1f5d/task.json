@@ -1,0 +1,18 @@
+{
+  "task_id": "bcaf1f5d-3c06-4f94-ab77-d6f68b236e0a",
+  "type": "convert_model",
+  "status": "success",
+  "input": {
+    "format": "USDZ",
+    "original_model_id": "05b64099-76c1-4fdc-bb2c-3c0825b4d1b9"
+  },
+  "output_fields": [
+    "model_url"
+  ],
+  "credits_consumed": 5,
+  "created_at": "2026-10-31T03:09:20.340412Z",
+  "completed_at": "2026-10-31T03:09:31.335041Z",
+  "files": [
+    "model.usdz"
+  ]
+}
